@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victor-onoja.
-- 👀 I’m interested in hybrid app development.
-- 🌱 I’m currently able to use Dart, JavaScript & Python.
+- 👀 I’m interested in web / mobile app development.
+- 🌱 I’m currently able to use Dart, JavaScript.
 - 💞️ I’m looking to work on projects related to my field as mentioned above.
 - 📫 How to reach me odohvictor47@gmail.com, +2349017514951.
 
