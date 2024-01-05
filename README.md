@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Onoja Odoh.
 - 👀 I’m interested in web & mobile app development.
-- 🌱 My current tech stack ==> Dart (Flutter) & VanillaJs.
+- 🌱 My current tech stack ==> Dart (Flutter), JavaScript (VanillaJs) & Python.
 - 💞️ I’m looking to work on projects related to my field as mentioned above.
 - 📫 How to reach me odohvictor47@gmail.com, +2349017514951.
 
