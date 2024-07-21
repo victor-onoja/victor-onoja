@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Victor Onoja Odoh.
-- 👀 I’m interested in web & mobile app development.
+- 👋 Hi, I’m Victor Onoja Odoh. A Software Engineer and Application Developer.
+- 👀 I’m interested in building and maintaining software for Mobile and Web platforms.
 - 🌱 My current tech stack ==> Flutter, HTML, CSS, JavaScript, Python.
 - 💞️ I’m looking to work on projects related to my field as mentioned above.
-- 📫 How to reach me odohvictor47@gmail.com, +2349017514951.
+- 📫 How to reach me odohvictor47@gmail.com, +2349063643914.
 
 <!---
 victor-onoja/victor-onoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
