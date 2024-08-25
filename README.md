@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in building and maintaining software for Mobile and Web platforms.
   
-- 🌱 My current tech stack ==> Mobile(Dart(Flutter), Kotlin(Jetpack Compose)), Web(JavaScript(VanillaJS, ReactJs, NextJs, NodeJs, ExpressJs), Python(Flask, FastAPI)), Others(Supabase, Firebase, Apps Script, GCP, Docker).
+- 🌱 My current tech stack ==> Flutter, ReactJs, NextJs, NodeJs, Python
   
 - 💞️ I’m looking to work on exciting projects related to my field as mentioned above.
   
