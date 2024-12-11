@@ -2,11 +2,11 @@
   
 - 👀 I’m interested in building and maintaining software for Mobile and Web platforms.
   
-- 🌱 My current tech stack ==> Flutter, ReactJs, NextJs, NodeJs, Python
+- 🌱 My current tech stack ==> Flutter, NextJs, Python
   
 - 💞️ I’m looking to work on exciting projects related to my field as mentioned above.
 
-- 🙂‍↕️ I'm learning machine learning engineering and AI.
+- 🙂‍↕️ I'm learning AI and Machine Learning Engineering.
   
 - 📫 How to reach me odohvictor47@gmail.com, +2349063643914.
 
