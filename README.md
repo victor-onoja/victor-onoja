@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Victor Onoja Odoh. A Software Engineer.
+- 👋 Hi, I’m Victor Onoja Odoh. A Software Engineer and FullStack Developer.
   
 - 👀 I’m interested in building and maintaining software for Mobile and Web platforms.
   
-- 🌱 My current tech stack ==> Flutter, NextJs, Python
+- 🌱 My current tech stack ==> Dart, TypeScript, Python
   
 - 💞️ I’m looking to work on exciting projects related to my field as mentioned above.
 
