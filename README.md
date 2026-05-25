@@ -4,7 +4,7 @@
   
 - 🌱 My current tech stack ==> TypeScript, Python & Dart.
   
-- 💞️ I’m looking to work on exciting projects in ai, robotics & space fields and write technical articles on what I learn.
+- 💞️ I’m looking to work on exciting projects in ai, robotics & space exploration fields and write technical articles on what I learn.
 
 - 🙂‍↕️ I'm learning French.
   
